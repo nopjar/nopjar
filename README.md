@@ -1,13 +1,13 @@
 ## 👋 Hey, I’m Dustin
 
-I’m a **Computer Science student** and **developer** at **[PlayLegend Games](https://www.playlegend.net/)** - building large-scale systems for Minecraft-based gameplay experiences.\
+I’m a **Computer Science student** and **developer** at **[JetBrains](https://www.jetbrains.com/)** – working as an **Intern Developer** on **Kotlin Notebooks**.  
 Beyond that, I’m creating software that bridges productivity, creativity, and play.
 
 ### 💻 What I’m working on
 
 - Building **RiseQuest** - a gamified life-RPG mobile app for habits and personal growth
 - Freelancing through my studio **[dustinfeucht.com](https://www.dustinfeucht.com)** – crafting backends and mobile apps
-- Expanding **PlayLegend’s** platform with new gameplay systems, APIs, and performance improvements - pushing the limits of large-scale multiplayer experiences
+- Exploring and contributing to developer tooling and ecosystem improvements through my work on **Kotlin Notebooks** at **JetBrains**
 
 ### 🧠 Interests
 
@@ -17,7 +17,7 @@ Beyond that, I’m creating software that bridges productivity, creativity, and 
 
 ### ⚙️ Tech Stack
 
-- **Main:** Java
+- **Main:** Java, Kotlin
 - **Frontend:** Flutter
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps:** Docker, Kubernetes, GitHub Actions
@@ -25,7 +25,8 @@ Beyond that, I’m creating software that bridges productivity, creativity, and 
 
 ### 🚀 A bit of history
 
-- Developer at **PlayLegend Games** (current)
+- Intern Developer at **JetBrains** (Kotlin Notebooks) (current)  
+- Formerly Developer at **PlayLegend Games** while pushing the limits of large-scale multiplayer experiences
 - Formerly Volunteering at **ElderCraft.de** – Minecraft economy & city-building server
 - Occasional contributor to **[PaperMC](https://github.com/PaperMC/Paper)** and related open-source projects
 
