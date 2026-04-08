@@ -5,7 +5,7 @@ Beyond that, I’m creating software that bridges productivity, creativity, and 
 
 ### 💻 What I’m working on
 
-- Building **RiseQuest** - a gamified life-RPG mobile app for habits and personal growth
+- Building **[RiseQuest](https://www.risequest.app/)** - a gamified life-RPG mobile app for habits and personal growth
 - Freelancing through my studio **[dustinfeucht.com](https://www.dustinfeucht.com)** – crafting backends and mobile apps
 - Exploring and contributing to developer tooling and ecosystem improvements through my work on **Kotlin Notebooks** at **JetBrains**
 
